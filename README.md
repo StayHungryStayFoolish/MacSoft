@@ -56,15 +56,19 @@
 
 ##### Vanilla 状态栏管理工具，可以隐藏/关闭很多无用状态栏
 
-**Link:**
+**Link:** https://github.com/StayHungryStayFoolish/MacSoft/blob/master/MacSoft/Vanilla%E7%8A%B6%E6%80%81%E6%A0%8F%E7%AE%A1%E7%90%86.dmg
 
 ##### Magnet 分屏软件
 
-**Link:** https://github.com/StayHungryStayFoolish/MacSoft/blob/master/MacSoft/Vanilla%E7%8A%B6%E6%80%81%E6%A0%8F%E7%AE%A1%E7%90%86.dmg
+**Link:** https://github.com/StayHungryStayFoolish/MacSoft/blob/master/MacSoft/Magnet210.zip
 
 ##### 欧陆词典
 
 **Link:** https://github.com/StayHungryStayFoolish/MacSoft/blob/master/MacSoft/EuDic_3.5.4_xclient.info.dmg
+
+##### ShadowsocksX 1.7.1
+
+**ShadowsocksX:** https://github.com/StayHungryStayFoolish/MacSoft/blob/master/MacSoft/ShadowsocksX-NG.app.zip
 
 **破解**
 
