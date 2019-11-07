@@ -72,7 +72,7 @@
 
 ##### ShadowsocksX Windows
 
-**LinkL** https://raw.githubusercontent.com/StayHungryStayFoolish/MacSoft/master/MacSoft/Windows%20%E5%AE%A2%E6%88%B7%E7%AB%AFShadowsocksR.zip
+**Link:** https://raw.githubusercontent.com/StayHungryStayFoolish/MacSoft/master/MacSoft/Windows%20%E5%AE%A2%E6%88%B7%E7%AB%AFShadowsocksR.zip
 
 **破解**
 
