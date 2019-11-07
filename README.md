@@ -66,9 +66,13 @@
 
 **Link:** https://github.com/StayHungryStayFoolish/MacSoft/blob/master/MacSoft/EuDic_3.5.4_xclient.info.dmg
 
-##### ShadowsocksX 1.7.1
+##### ShadowsocksX 1.7.1 OS
 
 **ShadowsocksX:** https://github.com/StayHungryStayFoolish/MacSoft/blob/master/MacSoft/ShadowsocksX-NG.app.zip
+
+##### ShadowsocksX Windows
+
+**LinkL** https://raw.githubusercontent.com/StayHungryStayFoolish/MacSoft/master/MacSoft/Windows%20%E5%AE%A2%E6%88%B7%E7%AB%AFShadowsocksR.zip
 
 **破解**
 
